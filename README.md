@@ -5,12 +5,48 @@
   - 本仓库旨在整理和保存我从网络上搜集的各类有价值的资源。
 
 ## 资源分类
-  - 📄 新闻
-  - 📚 学习
-  - 🎉 娱乐
-  - 👨‍💻 技术
-  - 🛠️ 工具
-  - 🌟 博客
+
+<details>
+  <summary>📄 新闻</summary>
+  <p>新闻内容 1</p>
+  <p>新闻内容 2</p>
+  <p>新闻内容 3</p>
+</details>
+
+<details>
+  <summary>📚 学习</summary>
+  <p>学习资源 1</p>
+  <p>学习资源 2</p>
+  <p>学习资源 3</p>
+</details>
+
+<details>
+  <summary>🎉 娱乐</summary>
+  <p>娱乐项目 1</p>
+  <p>娱乐项目 2</p>
+  <p>娱乐项目 3</p>
+</details>
+
+<details>
+  <summary>👨‍💻 技术</summary>
+  <p>技术文章 1</p>
+  <p>技术文章 2</p>
+  <p>技术文章 3</p>
+</details>
+
+<details>
+  <summary>🛠️ 工具</summary>
+    <h6>[在线抠图，无需注册](https://www.remove.bg/zh/) </h6>
+  <p>工具介绍 2</p>
+  <p>工具介绍 3</p>
+</details>
+
+<details>
+  <summary>🌟 博客</summary>
+  <p>博客文章 1</p>
+  <p>博客文章 2</p>
+  <p>博客文章 3</p>
+</details>
 
 ## 贡献
   - 要是你也有私藏的好资源，别藏着掖着啦，快通过[📧](mailto:mingdajiang@gmail.com)分享给我吧，超级超级感激！
