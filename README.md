@@ -10,7 +10,7 @@
 - 📚 学习
 - 🎉 娱乐
 - 👨‍💻 技术
-- 🛠️ 工具
+- [💻 在线工具](#util)
 - [🌟 博客](#blog)
 
 ## 贡献
@@ -24,5 +24,11 @@
 
 希望这个小小的仓库能给你带来一些便利和惊喜！
 
+<h3 id = 'util'>在线工具</h3>
+
+- [在线抠图](https://www.remove.bg/zh)：一个无需登录即可使用的轻量抠图工具！
+- [JSON格式化](https://www.spidertools.cn/#/formatJSON)：在线JSON格式化及一些网络爬虫相关的工具！
+
 <h3 id = 'blog'>博客</h3>
+
 - [阮一峰的网络日志](https://www.ruanyifeng.com/blog/)
