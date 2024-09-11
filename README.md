@@ -28,6 +28,11 @@
 
 - [在线抠图](https://www.remove.bg/zh)：一个无需登录即可使用的轻量抠图工具！
 - [JSON格式化](https://www.spidertools.cn/#/formatJSON)：在线JSON格式化及一些网络爬虫相关的工具！
+- [PDF在线处理](https://www.ilovepdf.com/)：分割、合并、PDF => word、PDF => PPT、PDF => JPG...！
+- [在线压缩](https://yasuo.xunjiepdf.com/)：在线图片、视频、PDF、Word、PPT...压缩！
+- [图片叠加](https://www.wqtool.com/imgoverlay)：在线图片图层叠加！
+- [PDF去水印](https://www.wdku.net/PDFWatermark)：在线PDF去除水印！
+- [RGB颜色值<=>十六进制颜色码](https://www.sioe.cn/yingyong/yanse-rgb-16/)：在线RGB颜色值与十六进制颜色码转换！
 
 <h3 id = 'blog'>博客</h3>
 
