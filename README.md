@@ -37,6 +37,7 @@
 - [图片叠加](https://www.wqtool.com/imgoverlay)：在线图片图层叠加！
 - [PDF去水印](https://www.wdku.net/PDFWatermark)：在线PDF去除水印！
 - [RGB颜色值<=>十六进制颜色码](https://www.sioe.cn/yingyong/yanse-rgb-16/)：在线RGB颜色值与十六进制颜色码转换！
+- [Logo Design](https://www.brandcrowd.com/)：在线LOGO生成！
 
 <h3 id = 'blog'>博客</h3>
 
