@@ -7,6 +7,7 @@
 ## 资源分类
 
 - 📄 新闻
+- [🤖 AI](#ai)
 - 📚 学习
 - 🎉 娱乐
 - 👨‍💻 技术
@@ -25,6 +26,13 @@
 
 希望这个小小的仓库能给你带来一些便利和惊喜！
 
+<h3 id = 'ai'>AI</h3>
+
+- [ChatGPT](https://chatgpt.com/auth/login)
+- [Kmi](https://kimi.moonshot.cn/)
+- [智普](https://chatglm.cn/main/alltoolsdetail?lang=zh)
+- [AiPPT](https://www.aippt.cn/)
+
 <h3 id = 'frontEnd'>前端</h3>
 
 - [Ant Design](https://ant.design/index-cn)：蚂蚁集团采用 React 封装的一套组件库！
@@ -40,6 +48,7 @@
 - [PDF去水印](https://www.wdku.net/PDFWatermark)：在线PDF去除水印！
 - [RGB颜色值<=>十六进制颜色码](https://www.sioe.cn/yingyong/yanse-rgb-16/)：在线RGB颜色值与十六进制颜色码转换！
 - [Logo Design](https://www.brandcrowd.com/)：在线LOGO生成！
+- [JSON校验器](https://jsonlint.com/)：json不知道哪里格式写错了，就用他！
 
 <h3 id = 'api'>API 接口</h3>
 
