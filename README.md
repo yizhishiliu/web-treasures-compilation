@@ -15,9 +15,6 @@
 - [API 接口](#api)
 - [🌟 博客](#blog)
 
-## 贡献
-  - 要是你也有私藏的好资源，别藏着掖着啦，快通过[📧](mailto:mingdajiang@gmail.com)分享给我吧，超级超级感激！
-
 ## 注意事项
   - 请尊重资源版权，仅供个人学习和研究之用。
   - 如果您发现任何资源存在侵权问题，请及时联系我，我会立即删除相关内容。
@@ -29,14 +26,24 @@
 <h3 id = 'ai'>AI</h3>
 
 - [ChatGPT](https://chatgpt.com/auth/login)
-- [Kmi](https://kimi.moonshot.cn/)
+- [Kimi](https://kimi.moonshot.cn/)
 - [智普](https://chatglm.cn/main/alltoolsdetail?lang=zh)
 - [AiPPT](https://www.aippt.cn/)
 
 <h3 id = 'frontEnd'>前端</h3>
 
 - [Ant Design](https://ant.design/index-cn)：蚂蚁集团采用 React 封装的一套组件库！
+- [Ant Design Pro](https://pro.ant.design/zh-CN/)：基于 Ant Design 和 umi 的封装的一整前端脚手架！
 - [Arco Design](https://arco.design/)：字节跳动出品的企业级 Web 组件库！
+- [Vue3](https://cn.vuejs.org/)：构建用户界面的 JavaScript 框架！
+- [Vue CLI](https://cli.vuejs.org/zh/)：基于 Vue.js 进行快速开发的完整系统！
+- [Taro](https://taro-docs.jd.com/docs/)：一个开放式跨端跨小程序框架！
+- [Taro UI](https://taro-ui.jd.com/#/docs/introduction)：一款基于 Taro 框架开发的多端 UI 组件库！
+- [React](https://zh-hans.react.dev/)：通过组件来构建用户界面！
+- [Pinia](https://pinia.vuejs.org/getting-started.html)：Vue 状态管理库！
+- [Axios](https://axios-http.com/zh/docs/intro)：基于 promise 的网络请求库！
+- [Umi](https://umijs.org/)：乌米，可扩展的企业级前端应用框架！
+- 
 
 <h3 id = 'util'>在线工具</h3>
 
